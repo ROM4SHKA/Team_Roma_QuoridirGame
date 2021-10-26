@@ -1,0 +1,10 @@
+E:\Source\repos\Quoridor\Quoridor.Model\bin\Debug\netcoreapp3.1\Quoridor.Model.deps.json
+E:\Source\repos\Quoridor\Quoridor.Model\bin\Debug\netcoreapp3.1\Quoridor.Model.dll
+E:\Source\repos\Quoridor\Quoridor.Model\bin\Debug\netcoreapp3.1\Quoridor.Model.pdb
+E:\Source\repos\Quoridor\Quoridor.Model\obj\Debug\netcoreapp3.1\Quoridor.Model.csproj.AssemblyReference.cache
+E:\Source\repos\Quoridor\Quoridor.Model\obj\Debug\netcoreapp3.1\Quoridor.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\repos\Quoridor\Quoridor.Model\obj\Debug\netcoreapp3.1\Quoridor.Model.AssemblyInfoInputs.cache
+E:\Source\repos\Quoridor\Quoridor.Model\obj\Debug\netcoreapp3.1\Quoridor.Model.AssemblyInfo.cs
+E:\Source\repos\Quoridor\Quoridor.Model\obj\Debug\netcoreapp3.1\Quoridor.Model.csproj.CoreCompileInputs.cache
+E:\Source\repos\Quoridor\Quoridor.Model\obj\Debug\netcoreapp3.1\Quoridor.Model.dll
+E:\Source\repos\Quoridor\Quoridor.Model\obj\Debug\netcoreapp3.1\Quoridor.Model.pdb
